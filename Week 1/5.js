@@ -1,4 +1,4 @@
-function writeChars(char, n) {
+ function writeChars(char, n) {
   for (let i = 0; i < n; i++) {
     document.write(char);
   }
